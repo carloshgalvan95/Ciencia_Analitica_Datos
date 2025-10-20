@@ -6,7 +6,6 @@ authors = [
     {name = "carloshgalvan95",email = "carloshgalvan95@gmail.com"}
 ]
 license = {text = "MIT"}
-readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pandas (>=2.3.2,<3.0.0)",
