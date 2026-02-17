@@ -117,8 +117,3 @@ The repository includes 35+ datasets used across modules:
 - **Module 03:** Titanic, wine quality, sonar, breast cancer, personal loan, heart disease, computer prices
 - **Module 04:** Housing, automobile, Titanic (logistic regression variant)
 - **Sessions:** Forbes 2000, Uber trips, fitness metrics
-
-
-## License
-
-MIT
